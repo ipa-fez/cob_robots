@@ -2,7 +2,7 @@
 <launch>
 
   <!-- args -->
-  <arg name="robot" value="raw-mini"/>
+  <arg name="robot" value="minraw1-1"/>
   <arg name="sim" default="false"/>
 
   <!-- upload robot description -->
